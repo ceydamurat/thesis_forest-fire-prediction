@@ -1,4 +1,4 @@
-# Forest Fire Prediction - Master's Thesis
+# Forest Fire Prediction
 
 
 This repository contains the source code and methodology of a machine learning project developed as part of my master's thesis. The aim of this study is to predict forest fires based on environmental variables.
